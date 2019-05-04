@@ -5,3 +5,5 @@
 
 - [538 把二叉搜索树转化为累加树](https://github.com/Shiny-Man/leetcode/blob/master/coding/538.h)
 - [101 对称二叉树](https://github.com/Shiny-Man/leetcode/blob/master/coding/101.h)
+- [226 翻转二叉树](https://github.com/Shiny-Man/leetcode/blob/master/coding/226.h)
+- [572 另一个树的子树](https://github.com/Shiny-Man/leetcode/blob/master/coding/572.h)
