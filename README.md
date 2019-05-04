@@ -1,7 +1,7 @@
 # leetcode
 
-[![Passing Status](https://github.com/Shiny-Man/img.org/blob/master/passing.svg)]
-[![Bulid Status](https://github.com/Shiny-Man/img.org/blob/master/build.svg)]
+[![Passing Status](https://github.com/Shiny-Man/img.org/blob/master/passing.svg)](https://github.com/Shiny-Man/cpp-threadlib)
+[![Bulid Status](https://github.com/Shiny-Man/img.org/blob/master/build.svg)](https://github.com/Shiny-Man/cpp-threadlib)
 
 ## 树
 
