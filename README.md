@@ -7,3 +7,5 @@
 - [101 对称二叉树](https://github.com/Shiny-Man/leetcode/blob/master/coding/101.h)
 - [226 翻转二叉树](https://github.com/Shiny-Man/leetcode/blob/master/coding/226.h)
 - [572 另一个树的子树](https://github.com/Shiny-Man/leetcode/blob/master/coding/572.h)
+- [110 平衡二叉树](https://github.com/Shiny-Man/leetcode/blob/master/coding/110.h)
+- [617 合并二叉树](https://github.com/Shiny-Man/leetcode/blob/master/coding/617.h)
