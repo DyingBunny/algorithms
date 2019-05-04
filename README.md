@@ -10,3 +10,4 @@
 - [110 平衡二叉树](https://github.com/Shiny-Man/leetcode/blob/master/coding/110.h)
 - [617 合并二叉树](https://github.com/Shiny-Man/leetcode/blob/master/coding/617.h)
 - [104 二叉树的最大深度](https://github.com/Shiny-Man/leetcode/blob/master/coding/104.h)
+- [8 字符串转化函数(atoi)](https://github.com/Shiny-Man/leetcode/blob/master/coding/8.h)
