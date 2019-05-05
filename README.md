@@ -13,3 +13,4 @@
 - [8 字符串转化函数(atoi)](https://github.com/Shiny-Man/leetcode/blob/master/coding/8.h)
 - [148 排序链表](https://github.com/Shiny-Man/leetcode/blob/master/coding/148.h)
 - [206 反转链表](https://github.com/Shiny-Man/leetcode/blob/master/coding/206.h)
+- [142 环的入口节点](https://github.com/Shiny-Man/leetcode/blob/master/coding/142.h)
