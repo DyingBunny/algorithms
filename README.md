@@ -14,3 +14,5 @@
 - [148 排序链表](https://github.com/Shiny-Man/leetcode/blob/master/coding/148.h)
 - [206 反转链表](https://github.com/Shiny-Man/leetcode/blob/master/coding/206.h)
 - [142 环的入口节点](https://github.com/Shiny-Man/leetcode/blob/master/coding/142.h)
+- [680 验证回文子串](https://github.com/Shiny-Man/leetcode/blob/master/coding/680.h)
+- [88 合并有序数组](https://github.com/Shiny-Man/leetcode/blob/master/coding/88.h)
