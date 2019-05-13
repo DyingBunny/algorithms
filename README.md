@@ -25,5 +25,5 @@
 
 # 经典算法
 
-- [十大经典排序算法](https://github.com/Shiny-Man/leetcode/blob/master/coding/sort.h)
+- [【终结篇】十大经典排序算法](https://github.com/Shiny-Man/leetcode/blob/master/coding/sort.h)
 - [【终结篇】二分查找](https://github.com/Shiny-Man/leetcode/blob/master/algorithm/%E3%80%90%E7%BB%88%E7%BB%93%E7%AF%87%E3%80%91%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
