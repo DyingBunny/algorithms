@@ -21,6 +21,7 @@
 - [7 整数反转](https://github.com/Shiny-Man/leetcode/blob/master/coding/7.h)
 - [13 罗马数字转整数](https://github.com/Shiny-Man/leetcode/blob/master/coding/13.h)
 - [14 最长公共前缀](https://github.com/Shiny-Man/leetcode/blob/master/coding/14.h)
+- [35 搜索插入位置](https://github.com/Shiny-Man/leetcode/blob/master/coding/35.h)
 
 # 经典算法
 
