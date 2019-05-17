@@ -1,5 +1,5 @@
 # leetcode
-
+[![](https://img.shields.io/badge/leetcode-c%2B%2B-brightgreen.svg)](https://leetcode-cn.com/apriluestc/)
 [![Passing Status](https://github.com/Shiny-Man/img.org/blob/master/passing.svg)](https://github.com/Shiny-Man/cpp-threadlib)
 [![Bulid Status](https://github.com/Shiny-Man/img.org/blob/master/build.svg)](https://github.com/Shiny-Man/cpp-threadlib)
 
