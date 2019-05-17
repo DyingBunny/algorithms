@@ -1,4 +1,5 @@
 # leetcode
+[![](https://img.shields.io/badge/Leetcode%20%7C%20Solved%2FTotal-21%2F1040-orange.svg)](https://github.com/Apriluestc/leetcode/blob/master/README.md)
 [![](https://img.shields.io/badge/leetcode-c%2B%2B-brightgreen.svg)](https://leetcode-cn.com/apriluestc/)
 
 - [538 把二叉搜索树转化为累加树](https://github.com/Shiny-Man/leetcode/blob/master/coding/538.h)
