@@ -1,8 +1,10 @@
 # leetcode
 [![](https://img.shields.io/badge/Leetcode%20%7C%20Solved%2FTotal-21%2F1040-orange.svg)](https://github.com/Apriluestc/algorithms/blob/master/README.md)
 [![](https://img.shields.io/badge/Nowcoder%20%7C%20Solved%2FTotal-25%2F66-brightgreen.svg)](https://www.nowcoder.com/ta/coding-interviews?query=&asc=true&order=&page=1)
+[![](https://img.shields.io/badge/algorithm-c%2B%2B-blue.svg)](https://github.com/Apriluestc/algorithms/tree/master/coding)
 [![](https://img.shields.io/badge/issues%20%7C%200-open-brightgreen.svg)](https://github.com/Apriluestc/algorithms/issues)
 [![](https://img.shields.io/badge/template%20%7C%20from-yangwenmai-orange.svg)](https://github.com/yangwenmai)
+
 
 - [538 把二叉搜索树转化为累加树](https://github.com/Shiny-Man/leetcode/blob/master/coding/538.h)
 - [101 对称二叉树](https://github.com/Shiny-Man/leetcode/blob/master/coding/101.h)
