@@ -32,6 +32,7 @@
 
 ## nowcower
 
+- [二维数组的查找](https://github.com/Shiny-Man/leetcode/blob/master/coding/nowcower1.h)
 ## 经典算法
 
 - [【终结篇】十大经典排序算法](https://github.com/Shiny-Man/leetcode/blob/master/coding/sort.h)
