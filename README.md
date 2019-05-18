@@ -48,3 +48,4 @@
 ## 致谢
 
 欢迎大家 fork，并且能够一起完成刷题
+[如何 fork 请戳这里](https://github.com/Apriluestc/algorithms/blob/master/usage/fork.md)
