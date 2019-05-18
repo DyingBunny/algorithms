@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/issues%20%7C%200-open-brightgreen.svg)](https://github.com/Apriluestc/algorithms/issues)
 [![](https://img.shields.io/badge/template%20%7C%20from-yangwenmai-orange.svg)](https://github.com/yangwenmai)
 <img src="https://github.com/Apriluestc/img.org/blob/master/l.png" width="400px">
-<img src="https://github.com/Apriluestc/img.org/blob/master/c.png" width="400px">
+<img src="https://github.com/Apriluestc/img.org/blob/master/c.png" width="500px">
 
 ## nowcower 个人刷题笔记
 
