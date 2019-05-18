@@ -45,7 +45,7 @@
 - [【终结篇】二分查找](https://github.com/Shiny-Man/leetcode/blob/master/algorithm/%E3%80%90%E7%BB%88%E7%BB%93%E7%AF%87%E3%80%91%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
 - [【终结篇】动态规划](https://github.com/Shiny-Man/leetcode/blob/master/algorithm/%E3%80%90%E7%BB%88%E7%BB%93%E7%AF%87%E3%80%91%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
 
-## contributor
+## Contributor
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
