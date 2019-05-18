@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/algorithm-c%2B%2B-blue.svg)](https://github.com/Apriluestc/algorithms/tree/master/coding)
 [![](https://img.shields.io/badge/issues%20%7C%200-open-brightgreen.svg)](https://github.com/Apriluestc/algorithms/issues)
 [![](https://img.shields.io/badge/template%20%7C%20from-yangwenmai-orange.svg)](https://github.com/yangwenmai)
-<img src="https://github.com/Apriluestc/img.org/blob/master/leetcode.png" width="160px">
+<img src="https://github.com/Apriluestc/img.org/blob/master/leetcode.png" width="360px">
 
 ## nowcower 个人刷题笔记
 
