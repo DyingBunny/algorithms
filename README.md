@@ -9,9 +9,7 @@
 [![](https://img.shields.io/badge/issues%20%7C%200-open-brightgreen.svg)](https://github.com/Apriluestc/algorithms/issues)
 <br>
 [![](https://img.shields.io/badge/template%20%7C%20from-yangwenmai-orange.svg)](https://github.com/yangwenmai)
-<br>
-<img src="https://github.com/Apriluestc/img.org/blob/master/leetcode.png" width="160px">https://github.com/Apriluestc/algorithms/edit/master/README.md
-[![](https://github.com/Apriluestc/img.org/blob/master/leetcode.png)](https://github.com/Apriluestc/algorithms/edit/master/README.md)
+<img src="https://github.com/Apriluestc/img.org/blob/master/leetcode.png" width="160px">
 
 ## nowcower 个人刷题笔记
 
