@@ -56,7 +56,7 @@ $ git checkout -b myfeature
 
 `.h`文件命名：`2018-08-03-username-xxx.h`，放到`coding`目录下
 `图片`文件的图片：放到 `img` 目录下；
-`.md`文件放在`issue`目录下
+`.md`文件放在`md`目录下
 文件内容：需要明确标题、日期等基本信息；
 
 ### 第五步：保持分支同步
