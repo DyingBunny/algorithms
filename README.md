@@ -1,7 +1,5 @@
 # algorithm
-<div>
-  <img src="https://github.com/Apriluestc/img.org/blob/master/leetcode.png" width="160px">
-  </span>
+
 [![](https://img.shields.io/badge/Leetcode%20%7C%20Solved%2FTotal-21%2F1040-orange.svg)](https://github.com/Apriluestc/algorithms/blob/master/README.md)
 <br>
 [![](https://img.shields.io/badge/Nowcoder%20%7C%20Solved%2FTotal-25%2F66-brightgreen.svg)](https://www.nowcoder.com/ta/coding-interviews?query=&asc=true&order=&page=1)
@@ -11,8 +9,6 @@
 [![](https://img.shields.io/badge/issues%20%7C%200-open-brightgreen.svg)](https://github.com/Apriluestc/algorithms/issues)
 <br>
 [![](https://img.shields.io/badge/template%20%7C%20from-yangwenmai-orange.svg)](https://github.com/yangwenmai)
-</span>
-</div>
 <br>
 <img src="https://github.com/Apriluestc/img.org/blob/master/leetcode.png" width="160px">
 
@@ -21,10 +17,6 @@
 - [二维数组的查找](https://github.com/Apriluestc/algorithms/blob/master/issue.md)
 
 ## leetcode
-
-<div>
-  <img src="https://github.com/Apriluestc/img.org/blob/master/leetcode.png" width="160px">
-  <span>
 
 - [538 把二叉搜索树转化为累加树](https://github.com/Shiny-Man/leetcode/blob/master/coding/538.h)
 - [101 对称二叉树](https://github.com/Shiny-Man/leetcode/blob/master/coding/101.h)
@@ -47,8 +39,6 @@
 - [35 搜索插入位置](https://github.com/Shiny-Man/leetcode/blob/master/coding/35.h)
 - [33 搜索旋转排序数组的插入位置](https://github.com/Shiny-Man/leetcode/blob/master/coding/33.h)
 - [70 爬楼梯](https://github.com/Shiny-Man/leetcode/blob/master/coding/70.h)
-  </span>
-</div>
 
 ## nowcower
 
