@@ -1,5 +1,7 @@
 # algorithm
-
+<div>
+  <img src="https://github.com/Apriluestc/img.org/blob/master/leetcode.png" width="160px">
+  </span>
 [![](https://img.shields.io/badge/Leetcode%20%7C%20Solved%2FTotal-21%2F1040-orange.svg)](https://github.com/Apriluestc/algorithms/blob/master/README.md)
 <br>
 [![](https://img.shields.io/badge/Nowcoder%20%7C%20Solved%2FTotal-25%2F66-brightgreen.svg)](https://www.nowcoder.com/ta/coding-interviews?query=&asc=true&order=&page=1)
@@ -9,6 +11,8 @@
 [![](https://img.shields.io/badge/issues%20%7C%200-open-brightgreen.svg)](https://github.com/Apriluestc/algorithms/issues)
 <br>
 [![](https://img.shields.io/badge/template%20%7C%20from-yangwenmai-orange.svg)](https://github.com/yangwenmai)
+</span>
+</div>
 <br>
 <img src="https://github.com/Apriluestc/img.org/blob/master/leetcode.png" width="160px">
 
