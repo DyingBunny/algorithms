@@ -1,6 +1,6 @@
 # nowcower 个人刷题笔记
 
-### 二维数组的查找
+### [二维数组的查找](https://github.com/Apriluestc/algorithms/blob/master/coding/nowcower1.h)
 
 **思路一**
 
