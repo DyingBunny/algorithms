@@ -6,6 +6,10 @@
 [![](https://img.shields.io/badge/issues%20%7C%200-open-brightgreen.svg)](https://github.com/Apriluestc/algorithms/issues)
 [![](https://img.shields.io/badge/template%20%7C%20from-yangwenmai-orange.svg)](https://github.com/yangwenmai)
 
+## nowcower 个人刷题笔记
+
+- [二维数组的查找](https://github.com/Apriluestc/algorithms/blob/master/issue.md)
+
 ## leetcode
 
 - [538 把二叉搜索树转化为累加树](https://github.com/Shiny-Man/leetcode/blob/master/coding/538.h)
